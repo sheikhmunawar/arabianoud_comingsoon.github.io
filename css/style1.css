@@ -222,3 +222,25 @@
 @media screen and (max-width: 600px) { 
     .cb-slideshow li div h3 { font-size: 80px }
 }
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+#logo {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#logobox {
+    height: 80px;
+    margin: -10px 10px 0;
+}
+
+.leaflogo {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin: -13px -5px 0;
+}
