@@ -9,7 +9,7 @@
 }
 .cb-slideshow:after { 
     content: '';
-    background: transparent url(../images/pattern.png) repeat top left; 
+    background: transparent url(images/pattern.png) repeat top left; 
 }
 .cb-slideshow li span { 
     width: 100%;
@@ -52,7 +52,7 @@
     line-height: 200px; 
 }
 .cb-slideshow li:nth-child(1) span { 
-    background-image: url(../images/1.jpg) 
+    background-image: url(images/1.jpg) 
 }
 .cb-slideshow li:nth-child(2) span { 
     background-image: url(../images/2.jpg);
